@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LSZTM
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Interfacing with mysql
+- 👀 I’m interested in Python and Lua
+- 🌱 I’m currently learning python and some cloud computing
 - 💞️ I’m looking to collaborate on Any projects 
 - 📫 Discord:Lugia#1347
 
